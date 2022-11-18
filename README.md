@@ -37,9 +37,9 @@ Please note:
 Special Thanks
 ---
 
-- Designers of PRKL30 Keyboard fo making the project and keeping it open source.
+- Designers of PRKL30 Keyboard for making the project and keeping it open source.
 - FMKC Community for being awesome.
-- [Erkhal](https://github.com/ErkHal/) for making the base version for this case.
+- [Erkhal](https://github.com/ErkHal/) for making the model this case is based on.
 
 ---
 Exploded Render
