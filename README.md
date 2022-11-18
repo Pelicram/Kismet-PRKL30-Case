@@ -39,6 +39,7 @@ Special Thanks
 
 - Designers or PRKL30 Keyboard fo making the project and keeping it open source.
 - FMKC Community for being awesome.
+- [Erkhal](https://github.com/ErkHal/) for making the base version for this case.
 
 ---
 Exploded Render
