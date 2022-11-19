@@ -10,7 +10,7 @@
 
 ### --> [PRKL30 Keyboard repository](https://github.com/ErkHal/PRKL30)
 
-### --> [Keycaps shown in pictures and renders](https://github.com/Pelicram/Hattara-Printable-Low-Profile-Keycaps)
+### --> [Keycaps shown in pictures](https://github.com/Pelicram/Hattara-Printable-Low-Profile-Keycaps)
 
 **This won't work with wireless versions as you need to cut off the part of the pcb with the battery connections to fit in the case.**
 
