@@ -1,8 +1,8 @@
 # Kismet PRKL30 Case
 
+<a href="https://tapr.org/the-tapr-open-hardware-license/"><img src="https://img.shields.io/badge/Licence-TAPR%20OHL-brightgreen" alt="Licence" height="25"/></a><a href="https://www.paypal.com/donate/?hosted_button_id=LNPV4WR7C95VA"><img src="https://img.shields.io/badge/Donate-PayPal-blue" alt="Donate button" align="right" height="25"/></a>
 
-
-### A 3D printed, low profile plateless case for the PRKL30 keyboard
+A 3D printed, low profile plateless case for the PRKL30 keyboard
 
 ![](_Images/picture1.png)
 
@@ -48,3 +48,5 @@
 ---
 
 _Licenced under [The TAPR Open Hardware License](https://tapr.org/the-tapr-open-hardware-license/)_
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=LNPV4WR7C95VA"><img src="https://github.com/andreostrovsky/donate-with-paypal/raw/master/dark.svg" alt="Donate button" width="400px"></a>
